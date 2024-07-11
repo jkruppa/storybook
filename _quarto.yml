@@ -9,10 +9,15 @@ website:
   repo-url: https://github.com/jkruppa/storybook
   repo-actions: [edit, issue]  
   navbar:
+    search: true
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+      - about.qmd 
+      - icon: github
+        href: https://github.com/jkruppa/storybook
+        aria-label: GitHub repo
+
   page-footer:
     left: |
       Storybook Bio Data Science wurde von <a href="https://www.hs-osnabrueck.de/prof-dr-jochen-kruppa/">Jochen Kruppa-Scheetz</a> geschrieben. 
