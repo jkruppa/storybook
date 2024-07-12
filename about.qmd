@@ -4,6 +4,6 @@ title: "About"
 
 About this site
 
-```{r}
-1 + 1
-```
+[Prof. Dr. Jochen Kruppa-Scheetz](https://www.hs-osnabrueck.de/prof-dr-jochen-kruppa/)
+
+

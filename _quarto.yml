@@ -26,7 +26,6 @@ website:
 
 format:
   html:
-    author: "<a href='https://www.hs-osnabrueck.de/prof-dr-jochen-kruppa/'>Prof. Dr. Jochen Kruppa-Scheetz</a>"
     theme:
       light: [simplex]
       dark: [darkly]
